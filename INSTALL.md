@@ -12,6 +12,7 @@ You can rename your project to whatever you'd like.
 7. Apply Settings and hit OK.
 8. Restart Android Studio.
 
+
 # Dependency Management
 This project uses Gradle for dependency management.
 
