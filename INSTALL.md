@@ -3,7 +3,6 @@ Open starter-android in Android Studio to get started!
 
 # Rename Your Project
 You can rename your project to whatever you'd like.
-
 1. Right-click on your root project directory
 2. Select Refactor -> Rename
 3. Select rename project and change the name there.
