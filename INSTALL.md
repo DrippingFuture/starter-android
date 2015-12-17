@@ -1,7 +1,7 @@
-########## Get Started ##########
+# Get Started
 Open starter-android in Android Studio to get started!
 
-########## Rename Your Project ##########
+# Rename Your Project
 You can rename your project to whatever you'd like.
   1. Right-click on your root project directory
   2. Select Refactor -> Rename
@@ -15,9 +15,15 @@ You can rename your project to whatever you'd like.
   7. Apply Settings and hit OK.
   8. Restart Android Studio.
 
-########## Dependency Management ##########
+# Dependency Management
 This project uses Gradle for dependency management.
 
 You can install new dependencies by:
   * adding them to your Build.gradle
   * syncing your gradle file
+
+# Manually Bootstrap
+If you didn't `firebase init` this project
+you can manually set the project up by running
+
+`node bootstrap.js "namespace" .`
