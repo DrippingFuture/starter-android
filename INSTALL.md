@@ -16,8 +16,8 @@ You can rename your project to whatever you'd like.
 This project uses Gradle for dependency management.
 
 You can install new dependencies by:
-  * adding them to your Build.gradle
-  * syncing your gradle file
+* adding them to your Build.gradle
+* syncing your gradle file
 
 # Manually Bootstrap
 If you didn't `firebase init` this project
