@@ -1,0 +1,7 @@
+{
+  "require": [],
+  "rename": [
+    "./app/src/main/java/yourcompany/starter_android/MainActivity.java"
+  ],
+  "run": []
+}
