@@ -19,9 +19,3 @@ This project uses Gradle for dependency management.
 You can install new dependencies by:
 * adding them to your Build.gradle
 * syncing your gradle file
-
-# Manually Bootstrap
-If you didn't `firebase init` this project
-you can manually set the project up by running
-
-`node bootstrap.js "namespace" .`
